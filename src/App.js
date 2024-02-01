@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          PR TEST
         </a>
         {process.env.REACT_APP_ENV}
       </header>
